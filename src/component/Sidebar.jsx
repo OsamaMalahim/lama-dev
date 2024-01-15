@@ -1,4 +1,4 @@
-import { Box, useMediaQuery } from "@mui/material";
+import { Box } from "@mui/material";
 import React from "react";
 
 const Sidebar = () => {

@@ -1,5 +1,4 @@
 import { Box } from "@mui/material";
-import { lightBlue } from "@mui/material/colors";
 import React from "react";
 
 const Feed = () => {
